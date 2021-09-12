@@ -19,3 +19,9 @@ code {
 .badge-warning {
   background-color: orange;
 }
+
+.btn-delete {
+  background-color: rgb(207, 0, 0);
+  color: white;
+  border: 0;
+}
